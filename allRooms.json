@@ -1,0 +1,292 @@
+[
+    {
+        "edificio": "V432",
+        "piso": -1,
+        "sala": "LOC"
+    },
+    {
+        "edificio": "V432",
+        "piso": -1,
+        "sala": "SIM"
+    },
+    {
+        "edificio": "E441",
+        "piso": 5,
+        "sala": "Lab  Telem\u00e1tica"
+    },
+    {
+        "edificio": "E441",
+        "piso": 5,
+        "sala": "Lab  Inform\u00e1tica"
+    },
+    {
+        "edificio": "E278A",
+        "piso": "4",
+        "sala": "S403"
+    },
+    {
+        "edificio": "E441",
+        "piso": "-1",
+        "sala": "AU"
+    },
+    {
+        "edificio": "E441",
+        "piso": "1",
+        "sala": "S101"
+    },
+    {
+        "edificio": "E441",
+        "piso": "1",
+        "sala": "S106"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S201"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S202"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S203"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S205"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S206"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S207"
+    },
+    {
+        "edificio": "E441",
+        "piso": "3",
+        "sala": "S303"
+    },
+    {
+        "edificio": "E441",
+        "piso": "3",
+        "sala": "S304"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "S401"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "S402"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "S403"
+    },
+    {
+        "edificio": "M253A",
+        "piso": "6",
+        "sala": "L601"
+    },
+    {
+        "edificio": "M253A",
+        "piso": "6",
+        "sala": "L602"
+    },
+    {
+        "edificio": "V275",
+        "piso": "-1",
+        "sala": "L10"
+    },
+    {
+        "edificio": "V432",
+        "piso": "3",
+        "sala": "AU"
+    },
+    {
+        "edificio": "V432",
+        "piso": "3",
+        "sala": "S312"
+    },
+    {
+        "edificio": "V432",
+        "piso": "3",
+        "sala": "S313"
+    },
+    {
+        "edificio": "V432",
+        "piso": "3",
+        "sala": "S314"
+    },
+    {
+        "edificio": "V432",
+        "piso": "3",
+        "sala": "S315"
+    },
+    {
+        "edificio": "V432",
+        "piso": "4",
+        "sala": "S412"
+    },
+    {
+        "edificio": "V432",
+        "piso": "4",
+        "sala": "S413"
+    },
+    {
+        "edificio": "V432",
+        "piso": "4",
+        "sala": "S415"
+    },
+    {
+        "edificio": "V432",
+        "piso": "5",
+        "sala": "S513"
+    },
+    {
+        "edificio": "V432",
+        "piso": "5",
+        "sala": "S515"
+    },
+    {
+        "edificio": "E260",
+        "piso": "1",
+        "sala": "S101"
+    },
+    {
+        "edificio": "E441",
+        "piso": "1",
+        "sala": "S105"
+    },
+    {
+        "edificio": "E441",
+        "piso": "3",
+        "sala": "S302"
+    },
+    {
+        "edificio": "M253A",
+        "piso": "5",
+        "sala": "S502"
+    },
+    {
+        "edificio": "V210",
+        "piso": "2",
+        "sala": "S202"
+    },
+    {
+        "edificio": "V275",
+        "piso": "3",
+        "sala": "L301"
+    },
+    {
+        "edificio": "V432",
+        "piso": "4",
+        "sala": "S414"
+    },
+    {
+        "edificio": "V432",
+        "piso": "5",
+        "sala": "S514"
+    },
+    {
+        "edificio": "E333",
+        "piso": "-3",
+        "sala": "S302"
+    },
+    {
+        "edificio": "M253B",
+        "piso": "4",
+        "sala": "S403"
+    },
+    {
+        "edificio": "M253B",
+        "piso": "4",
+        "sala": "S404"
+    },
+    {
+        "edificio": "E326",
+        "piso": "3",
+        "sala": "S304"
+    },
+    {
+        "edificio": "E441",
+        "piso": "2",
+        "sala": "S204"
+    },
+    {
+        "edificio": "M253A",
+        "piso": "6",
+        "sala": "L604"
+    },
+    {
+        "edificio": "M253B",
+        "piso": "4",
+        "sala": "S401"
+    },
+    {
+        "edificio": "V275",
+        "piso": "2",
+        "sala": "S203"
+    },
+    {
+        "edificio": "E326",
+        "piso": "2",
+        "sala": "S204"
+    },
+    {
+        "edificio": "E441",
+        "piso": "5",
+        "sala": "E50"
+    },
+    {
+        "edificio": "V210",
+        "piso": "2",
+        "sala": "L201"
+    },
+    {
+        "edificio": "E233",
+        "piso": "-2",
+        "sala": "S200"
+    },
+    {
+        "edificio": "E326",
+        "piso": "4",
+        "sala": "S403"
+    },
+    {
+        "edificio": "M253B",
+        "piso": "4",
+        "sala": "S402"
+    },
+    {
+        "edificio": "M253C",
+        "piso": "2",
+        "sala": "S202"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "LAB D"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "LAB O"
+    },
+    {
+        "edificio": "E441",
+        "piso": "4",
+        "sala": "LAB U"
+    }
+]

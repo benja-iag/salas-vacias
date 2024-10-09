@@ -1,6 +1,6 @@
 .main {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
@@ -127,9 +127,10 @@
 }
 
 /* Mobile */
-@media (max-width: 700px) {
-  .content {
-    padding: 4rem;
+@media (max-width: 900px) {
+  .main {
+    padding: 0;
+    flex-direction: column;
   }
 
   .grid {
