@@ -5,7 +5,9 @@ export const cardStyle: Record<string, SxProps<Theme> | undefined> = {
     width: { xs: "95%", sm: "80%", md: "60%" },
     maxWidth: "800px",
     padding: { xs: 1, sm: 2 },
-    paddingBottom: { xs: 10, sm: 25 },
+    alignItems: "center",
+    justifyContent: "center",
+    display: "flex",
   },
   cardActions: {
     display: "flex",
