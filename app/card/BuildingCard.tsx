@@ -79,7 +79,7 @@ const CardTitle = ({ title, countEmptyRooms }: CardTitleProps) => {
 // Es la copia de BuildingCard (tanto en estilo como estructura) pero con un skeleton para el loading
 const LoadingCard: React.FC = () => {
   return (
-    <Card>
+    <Card sx={{ minWidth: "80%" }}>
       <CardHeader
         title={
           <Box sx={cardStyle.boxCardTitle}>
