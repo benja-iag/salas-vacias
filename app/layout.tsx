@@ -14,7 +14,13 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <Typography
-          sx={{ fontWeight: "medium", fontSize: 46, textAlign: "center" }}
+          sx={{
+            fontWeight: "bold",
+            textTransform: "uppercase",
+            marginTop: 2,
+            fontSize: 40,
+            textAlign: "center",
+          }}
         >
           Salas Vacías FIC
         </Typography>
