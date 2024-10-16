@@ -43,6 +43,7 @@ export default function RootLayout({
               }}
             />
           </a>
+          (PR's are welcome)
         </footer>
       </body>
     </html>
